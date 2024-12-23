@@ -52,16 +52,13 @@ function Footer() {
                 </h3>
               </a>
               <p className="text-gray-400">
-                Kannukara
+                Kozhi**de
                 <br />
-                Kozhikode, Vadakara, 673102
+                Kozhikode, Vat***ra, 673102
               </p>
               <p className="mt-4 text-gray-400">
                 Email:{" "}
-                <a
-                  href="mailto:info@yourwebsite.com"
-                  className="hover:text-white"
-                >
+                <a href="fayizpachu217@gmail.com" className="hover:text-white">
                   Fayizpachu217@gmail.com
                 </a>
               </p>

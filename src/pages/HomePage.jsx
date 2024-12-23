@@ -1,6 +1,7 @@
 import bmhome from "../assets/bmhome.webp";
 // import bmname from "../assets/bmlogomen.jpg";
 import Footer from "../component/Footer";
+import CarVersion from "./CarVersion";
 function HomePage() {
   return (
     <>
@@ -14,6 +15,7 @@ function HomePage() {
           <img className="w-[100%] h-[100vh]" src={bmhome} alt="" />
         </div>
       </section>
+      <CarVersion />
       <Footer />
     </>
   );

@@ -6,10 +6,10 @@ import electricicon from "../assets/electricicon.png";
 function CarVersion() {
   return (
     <>
-      <div className="w-full md:h-screen  bg-[#ffffff] ">
+      <div className="w-full   bg-[#ffffff] ">
         <div className="flex justify-center py-10 ">
           {" "}
-          <h1 className="text-3xl">Find Your BMW</h1>
+          <h1 className="text-3xl font-bold ">Find Your BMW</h1>
         </div>
 
         <div className="flex flex-row justify-center py-10 px-5 pl-7">
